@@ -1,6 +1,6 @@
 # Hot Music Recommender (Prototype)
 
-Link to presentation: https://slides.com/josefinbeyer/deck-e73114
+Project Presentation & Demo (Video 3:33 minutes): https://vimeo.com/527533162
 
 
 ## Flow
