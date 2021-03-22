@@ -8,7 +8,7 @@ Link to presentation: https://slides.com/josefinbeyer/deck-e73114
 <center> <img src="hot_music_recommender.PNG" alt="Flow"> 
 
 
-## Case STudy Description
+## Case Study Description
 
 ### Scenario
 
@@ -44,4 +44,4 @@ Be open minded about this process: we are agile, and that means that we define o
 
 Lots of luck and strength for this first week with us!
 
--Jane
+Jane
